@@ -49,4 +49,7 @@ keeping the output of "rpm -V foo" clean.
 
 
 %changelog
+* Tue Feb 08 2011 Paul Morgan <jumanjiman@gmail.com> 0.1-1
+- new package built with tito
+
 
